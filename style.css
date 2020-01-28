@@ -14,3 +14,9 @@
 .btnGroupLnd button.active {background-color: #ef8022; border-color: #ef8022;}
 .btnGroupLnd button:hover {background-color:#ffc313;}
 .btnGroupLnd button.active:hover {background-color:#ef8022;}
+.header__icon__img {
+    display: block;
+    width:360px;     /*===HEADER DIMENSIONS===*/
+    height:60px;    /*===HEADER DIMENSIONS===*/
+    margin-left:-10px;     /*===HEADER POSITION CORRECTION===*/
+    margin-top:-10px;     /*===HEADER POSITION CORRECTION===*/
